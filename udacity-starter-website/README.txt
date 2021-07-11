@@ -10,5 +10,5 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 ### CloudFront endpoint
-[https://dg3i9inzz7xhz.cloudfront.net](https://dg3i9inzz7xhz.cloudfront.net/)
+[https://dg3i9inzz7xhz.cloudfront.net](https://dg3i9inzz7xhz.cloudfront.net)
 
