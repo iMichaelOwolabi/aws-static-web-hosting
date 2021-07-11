@@ -12,3 +12,5 @@ index.html - The Index document for the website.
 ### CloudFront endpoint
 https://dg3i9inzz7xhz.cloudfront.net
 
+S3 endpoint
+http://my-static-site-896379602551-bucket.s3-website.us-east-1.amazonaws.com/
